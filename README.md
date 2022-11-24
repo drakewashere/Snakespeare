@@ -8,7 +8,7 @@ Snake genus translations are stored as class instances in "characters.py".
 ## Inspiration
 The first step to communicating with snakes is teaching them classic English literature.
 The fundamental principle of this was based on a similar project to teach horses about metaphysics and philosophy.
-For more info check out - [Descartes Before the Horse](#)
+For more info check out - [Descartes Before the Horse](https://github.com/drakewashere/DescartesBeforeTheHorse)
 
 ##  Technical specs
 Tested with Python 3.9
