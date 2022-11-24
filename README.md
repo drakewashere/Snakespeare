@@ -17,3 +17,4 @@ To generate a sample of this breakthrough snake linguistic algorithm, run
 ```
 python/python3 main.py
 ```
+Output is stored in the project root as "output.txt"
