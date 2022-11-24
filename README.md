@@ -10,7 +10,7 @@ The first step to communicating with snakes is teaching them classic English lit
 The fundamental principle of this was based on a similar project to teach horses about metaphysics and philosophy.
 For more info check out - [Descartes Before the Horse](#)
 
-##Technical specs
+##  Technical specs
 Tested with Python 3.9
 
 To generate a sample of this breakthrough snake linguistic algorithm, run
